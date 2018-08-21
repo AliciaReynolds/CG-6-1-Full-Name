@@ -64,7 +64,7 @@ namespace CG_6_1_Full_Name
             FullName.Append(" ");
             FullName.Append(last);
 
-           Console.WriteLine("Hello" + FullName);
+           Console.WriteLine("Hello " + FullName);
 
         }
 
